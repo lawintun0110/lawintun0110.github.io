@@ -8,3 +8,5 @@ print("\nFormatting string using % operator\n",massage)
 # comment 
 print("\nFormatting string using format() method\n")
 print("Example : \'The price of this {0:s} USD and the exchange rate is {2:d}  ")
+x = input("Enter your name = ")
+print("Nice to met you "+x)
